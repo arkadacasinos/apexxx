@@ -29,6 +29,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className={`${apxSans.variable} ${apxSerif.variable}`}>
       <head>
+        <meta name="yandex-verification" content="3d98ca3c6594056e" />
 <script
   dangerouslySetInnerHTML={{
     __html: `
